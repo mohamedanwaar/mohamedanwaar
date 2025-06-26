@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rashed</h1>
 <h2 align="center"> Software engineer </h2>
 
-- 🎓 3rd-year student at the **Faculty of Artificial Intelligence, Menoufia University**, Class of 2025.
-- 👨‍💻 Passionate about **Backend Development** with **Java & Spring Boot**.
-- ⚙️ Interested in **building scalable and efficient backend systems**.  
-- 🤖 Interested in **integrating AI with backend systems** to build smart apps.
-- 🌱 Currently learning **Spring Boot**, **REST APIs**, **MySQL**, and **Functional Programming in Java**.
+- 🎓 3rd-year student at the **Faculty of Artificial Intelligence, Menoufia University**, Class of 2025.  
+- 👨‍💻 Passionate about **Backend Development** with **Java & Spring Boot**.  
+- ⚙️ Interested in **building scalable, intelligent backend systems** by combining software engineering with modern AI.  
+- 🤖 Exploring **Large Language Models (LLMs)**, **multi-agent systems**, **LangChain**, **Hugging Face**, and **OpenAI tools**.  
+- 🧠 Curious about applying **semantic search**, **RAG pipelines**, and **prompt engineering** in real-world applications.  
+- 🌱 Currently learning **Spring Boot**, **REST APIs**, **MySQL**, and **functional programming in Java**, alongside AI agent architectures.
+
 - 💼 Open to **internships** or **junior backend developer roles** – [View my resume](https://drive.google.com/file/d/18CaeusAQr9MV2zZsVhk3P2j0gWNrChTp/view?usp=drive_link)
 - 📫 Reach me at: [mmohamedanwer70@gmail.com](mailto:mmohamedanwer70@gmail.com)
 
