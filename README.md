@@ -8,7 +8,7 @@
 - 🧠 Curious about applying **semantic search**, **RAG pipelines**, and **prompt engineering** in real-world applications.  
 - 🌱 Currently learning **Spring Boot**, **REST APIs**, **MySQL**, and **functional programming in Java**, alongside AI agent architectures.
 
-- 💼 Open to **internships** or **junior backend developer roles** – [View my resume](https://drive.google.com/file/d/18CaeusAQr9MV2zZsVhk3P2j0gWNrChTp/view?usp=drive_link)
+- 💼 Open to **internships** or **junior backend developer roles** – [View my resume]([https://drive.google.com/file/d/18CaeusAQr9MV2zZsVhk3P2j0gWNrChTp/view?usp=drive_link](https://drive.google.com/file/d/1LfXfOmx5jl8VkF3tR3vF3iZ-hJtY4mvh/view?usp=drive_link))
 - 📫 Reach me at: [mmohamedanwer70@gmail.com](mailto:mmohamedanwer70@gmail.com)
 
 ---
