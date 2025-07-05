@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rashed</h1>
 <h2 align="center"> AI Software engineer </h2>
----
+
 - 🎓 3rd-year student at the **Faculty of Artificial Intelligence, Menoufia University**, Class of 2025.  
 - 👨‍💻 Passionate about **Backend Development** with **Java & Spring Boot**.  
 - ⚙️ Interested in **building scalable, intelligent backend systems** by combining software engineering with modern AI.  
@@ -19,7 +19,6 @@
   <a href="https://www.facebook.com/profile.php?id=100008064079199" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
----
 
 ### 💻 Tech Stack
 <div align="left">
