@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rashed</h1>
 <h2 align="center"> AI Software engineer </h2>
-
+---
 - 🎓 3rd-year student at the **Faculty of Artificial Intelligence, Menoufia University**, Class of 2025.  
 - 👨‍💻 Passionate about **Backend Development** with **Java & Spring Boot**.  
 - ⚙️ Interested in **building scalable, intelligent backend systems** by combining software engineering with modern AI.  
