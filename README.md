@@ -8,7 +8,7 @@
 - 🧠 Curious about applying **semantic search**, **RAG pipelines**, and **prompt engineering** in real-world applications.  
 - 🌱 Currently learning **Spring Boot**, **REST APIs**, **MySQL**, and **functional programming in Java**, alongside AI agent architectures.
 
-- 💼 Open to **internships** or **junior backend developer roles or ai engineer** – [View my resume](https://drive.google.com/file/d/1LfXfOmx5jl8VkF3tR3vF3iZ-hJtY4mvh/view?usp=drive_link)
+- 💼 Open to **internships**, **junior backend developer roles, or AI engineer positions** – [View my resume](https://drive.google.com/file/d/1LfXfOmx5jl8VkF3tR3vF3iZ-hJtY4mvh/view?usp=drive_link)
 - 📫 Reach me at: [mmohamedanwer70@gmail.com](mailto:mmohamedanwer70@gmail.com)
 
 ---
@@ -21,29 +21,19 @@
 
 
 <h3 align="left">Tech Stack:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="30"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" height="30"/>
+  <img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" height="30"/>
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" height="30"/>
+</p>
 
 
 
