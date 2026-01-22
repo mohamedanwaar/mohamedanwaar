@@ -2,8 +2,8 @@
 <h2 align="center">Software Engineer</h2>
 
 - 💼 **Software Engineer at Youxel**, focused on building, maintaining, and optimizing scalable backend systems.  
-- 🎓 3rd-year student at the **Faculty of Artificial Intelligence, Menoufia University**, Class of 2025.  
-- 👨‍💻 Passionate about **Backend Development** and solid **software engineering fundamentals**.  
+- 🎓 4rd-year student at the **Faculty of Artificial Intelligence, Menoufia University**, Class of 2025.  
+- 👨‍💻 Passionate about **Backend Development** and strong **software engineering fundamentals**.  
 - ⚙️ Strong interest in **clean architecture**, **scalable system design**, and **backend best practices**.  
 - 🧩 Enjoy working on **RESTful APIs**, **business logic**, and **database-driven applications**.  
 - 🏗️ Focused on writing **maintainable, testable, and high-performance backend services**.
@@ -12,11 +12,11 @@
 
 <h3 align="left">Backend Tech Stack</h3>
 
-- **Languages:** Java, JavaScript  
-- **Backend Frameworks:** Spring Boot, **Node.js**, **Express.js**  
+- **Languages:** Java, JavaScript, **TypeScript**, **Python**  
+- **Backend Frameworks:** Spring Boot, **Node.js**, **Express.js** (with TypeScript)  
 - **APIs:** RESTful API design & implementation  
-- **Databases:** MySQL  
-- **ORM / Data Access:** JPA / Hibernate  
+- **Databases:** **PostgreSQL**, MySQL  
+- **ORM / Data Access:** **TypeORM**, JPA / Hibernate  
 - **Architecture & Concepts:** Clean Architecture, MVC, SOLID principles  
 - **Tools & Practices:** Git, GitHub, Code Reviews, Debugging, Unit Testing  
 
@@ -35,3 +35,4 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
+
